@@ -1,16 +1,49 @@
-## Hi there 👋
+# Vasilisa "Oberiut" Pozdniakova
 
-<!--
-**mirovisus/mirovisus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Developer · UX/UI Designer · Recovering Architect**
 
-Here are some ideas to get you started:
+Based in Czech Republic. Open to junior full-stack roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Full-stack developer & UX/UI designer with an architectural background. I cover the full product cycle: UX research, interface design in Figma, frontend in React and Next.js, backend in Java (Spring Boot) or Python, databases, deployment. 
+
+Years of working with space and visual communication in architecture taught me to think systematically about user environments. I now apply that approach to building web & software applications.
+
+## Currently
+
+- Available for full-time roles immediately
+- Open to positions in Pardubice, Hradec Králové, or Prague (hybrid)
+- graduated year BSc in Web Technologies at University of Pardubice
+- Reach me at [vas.pozdniakova@gmail.com](mailto:vas.pozdniakova@gmail.com)
+
+## Stack
+
+**Development:** JavaScript · TypeScript · React · Next.js · HTML · CSS/SCSS · Python · Java (Spring Boot) · SQL · PostgreSQL · Git
+
+**Design:** Figma · Adobe Illustrator · Adobe Photoshop · UX/UI prototyping · Cursor · Claude
+
+## Selected Work
+
+**[Zahrada](https://github.com/mirovisus/zahrada_frontend)** - full-stack marketplace connecting garden owners with maintenance workers. React frontend, Spring Boot backend. University project. [Live prototype](https://zahrada-frontend.vercel.app)
+
+**[Northern Soul](https://github.com/mirovisus/northern-soul)** - landing page for a wooden architecture heritage nonprofit concept. [Live prototype](https://northern-soul.vercel.app)
+
+**[Worst UX Alarm](https://github.com/mirovisus/worst-alarm)** - one-day design challenge: alarm clock with intentionally hostile dismissal UX. React + Tailwind + Vite. [Live prototype](https://worst-alarm.vercel.app)
+
+**[Breast Cancer Prediction](https://github.com/mirovisus/breast-cancer-project)** - SVM and MLP classifiers on the Wisconsin dataset, 96-99% accuracy. Python, PyTorch, scikit-learn.
+
+## Elsewhere
+
+- Portfolio · [behance.net/vasilisaoberiut](https://www.behance.net/vasilisaoberiut)
+- Shots · [dribbble.com/Mirovis](https://dribbble.com/oberiutdesign)
+- LinkedIn · [vasilisa-pozdniakova](https://www.linkedin.com/in/vasilisa-pozdniakova)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirovisus&show_icons=true&hide=issues&hide_border=true&bg_color=030227&title_color=1767FA&text_color=F6F6F6&icon_color=B1FA63" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirovisus&layout=compact&hide_border=true&bg_color=030227&title_color=1767FA&text_color=F6F6F6&langs_count=6" alt="Top languages" height="165" />
+</p>
