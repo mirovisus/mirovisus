@@ -1,4 +1,4 @@
-# Vasilisa "Oberiut" Pozdniakova
+# Vasilisa Pozdniakova
 
 **Full-stack Developer · UX/UI Designer · Recovering Architect**
 
@@ -16,7 +16,7 @@ Years of working with space and visual communication in architecture taught me t
 
 - Available for full-time roles immediately
 - Open to positions in Pardubice, Hradec Králové, or Prague (hybrid)
-- graduated year BSc in Web Technologies at University of Pardubice
+- Final year BSc in Web Technologies at University of Pardubice
 - Reach me at [vas.pozdniakova@gmail.com](mailto:vas.pozdniakova@gmail.com)
 
 ## Stack
