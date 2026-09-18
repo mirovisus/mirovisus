@@ -1,7 +1,7 @@
 ![Banner](./github.png)
 # Vasilisa Pozdniakova
 
-**Full-stack Developer · UX/UI Designer
+**Full-stack Developer · UX/UI Designer**
 
 Based in Czech Republic. Open to full-stack (junior) and UX/UI (mid) roles.
 
