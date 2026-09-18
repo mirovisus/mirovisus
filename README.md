@@ -22,10 +22,16 @@ Years of working with space and visual communication in architecture taught me t
 
 ## Tech Stack
 
+**Development**
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,python,java,spring,postgres,git,figma,ps,ai&perline=15" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,python,java,spring,postgres,git&perline=12" />
+</p>
+
+**Design**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" />
 </p>
 
 ## Featured Projects
