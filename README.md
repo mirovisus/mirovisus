@@ -20,11 +20,13 @@ Years of working with space and visual communication in architecture taught me t
 - Final year BSc in Web Technologies at University of Pardubice
 - Reach me at [vas.pozdniakova@gmail.com](mailto:vas.pozdniakova@gmail.com)
 
-## Stack
+## Tech Stack
 
-**Development:** JavaScript · TypeScript · React · Next.js · HTML · CSS/SCSS · Python · Java (Spring Boot) · SQL · PostgreSQL · Git
-
-**Design:** Figma · Adobe Illustrator · Adobe Photoshop · UX/UI prototyping · Cursor · Claude
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,python,java,spring,postgres,git,figma,ps,ai&perline=15" />
+  </a>
+</p>
 
 ## Selected Work
 
