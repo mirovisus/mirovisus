@@ -63,7 +63,7 @@ Years of working with space and visual communication in architecture taught me t
     </td>
     <td width="50%">
       <a href="https://github.com/mirovisus/breast-cancer-project">
-        <img src="https://github.com/mirovisus/breast-cancer-project/raw/main/images/svm_decision_boundary.png" alt="Breast Cancer Prediction" width="100%" />
+        <img src="https://github.com/mirovisus/breast-cancer-project/raw/master/images/svm_decision_boundary.png" alt="Breast Cancer Prediction" width="100%" />
       </a>
       <h3><a href="https://github.com/mirovisus/breast-cancer-project">Breast Cancer Prediction</a></h3>
       <p>SVM and MLP classifiers on the Wisconsin dataset, 96-99% accuracy. Python, PyTorch, scikit-learn.</p>
