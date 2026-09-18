@@ -1,11 +1,4 @@
 ![Banner](./github.png)
-# Vasilisa Pozdniakova
-
-**Full-stack Developer · UX/UI Designer**
-
-Based in Czech Republic. Open to full-stack and UX/UI roles.
-
----
 
 ## About
 
@@ -35,6 +28,7 @@ Years of working with space and visual communication in architecture taught me t
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" />
 </p>
 
+## Featured Projects
 <table>
   <tr>
     <td width="50%" align="center">
@@ -72,7 +66,10 @@ Years of working with space and visual communication in architecture taught me t
 
 ## Elsewhere
 
-- Portfolio · [behance.net/vasilisaoberiut](https://www.behance.net/vasilisaoberiut)
-- Shots · [dribbble.com/Mirovis](https://dribbble.com/oberiutdesign)
-- LinkedIn · [vasilisa-pozdniakova](https://www.linkedin.com/in/vasilisa-pozdniakova)
+<p align="center">
+  <a href="https://www.behance.net/vasilisaoberiut"><img src="https://img.shields.io/badge/Behance-1767FA?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://dribbble.com/Mirovis"><img src="https://img.shields.io/badge/Dribbble-1767FA?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vasilisa-pozdniakova"><img src="https://img.shields.io/badge/LinkedIn-1767FA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vas.pozdniakova@gmail.com"><img src="https://img.shields.io/badge/Email-1767FA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
