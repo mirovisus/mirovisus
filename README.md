@@ -1,3 +1,4 @@
+![Banner](./github.png)
 # Vasilisa Pozdniakova
 
 **Full-stack Developer · UX/UI Designer · Recovering Architect**
