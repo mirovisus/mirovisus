@@ -40,7 +40,7 @@ Years of working with space and visual communication in architecture taught me t
   <tr>
     <td width="50%">
       <a href="https://github.com/mirovisus/zahrada_frontend">
-        <img src="https://github.com/mirovisus/zahrada_frontend/raw/main/docs/screenshots/00-hero.png" alt="Zahrada" width="100%" />
+        <img src="https://github.com/mirovisus/zahrada_frontend/raw/main/docs/screenshots/screenshot.png" alt="Zahrada" width="100%" />
       </a>
       <h3><a href="https://github.com/mirovisus/zahrada_frontend">Zahrada</a></h3>
       <p>Full-stack marketplace connecting garden owners with maintenance workers. React frontend, Spring Boot backend. <a href="https://zahrada-frontend.vercel.app">Live demo</a></p>
