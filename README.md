@@ -75,7 +75,7 @@ Years of working with space and visual communication in architecture taught me t
 - Shots · [dribbble.com/Mirovis](https://dribbble.com/oberiutdesign)
 - LinkedIn · [vasilisa-pozdniakova](https://www.linkedin.com/in/vasilisa-pozdniakova)
 
-## Signal
+## Cadence
 
 <p align="center">
   <img src="./profile-summary-card-output/tokyo-night/0-profile-details.svg" width="49%" />
