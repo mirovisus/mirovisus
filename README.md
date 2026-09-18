@@ -3,7 +3,7 @@
 
 **Full-stack Developer · UX/UI Designer**
 
-Based in Czech Republic. Open to full-stack (junior) and UX/UI (mid) roles.
+Based in Czech Republic. Open to full-stack and UX/UI roles.
 
 ---
 
@@ -16,8 +16,9 @@ Years of working with space and visual communication in architecture taught me t
 ## Currently
 
 - Available for full-time roles immediately
+- Open to junior full-stack developer positions
+- Open to mid-level UX/UI designer positions
 - Open to positions in Pardubice, Hradec Králové, or Prague (hybrid)
-- Final year BSc in Web Technologies at University of Pardubice
 - Reach me at [vas.pozdniakova@gmail.com](mailto:vas.pozdniakova@gmail.com)
 
 ## Tech Stack
