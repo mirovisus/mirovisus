@@ -41,14 +41,14 @@ Years of working with space and visual communication in architecture taught me t
         <img src="https://github.com/mirovisus/zahrada_frontend/raw/main/docs/screenshots/screenshot.png" alt="Zahrada" height="400" />
       </a>
       <h3><a href="https://github.com/mirovisus/zahrada_frontend">Zahrada</a></h3>
-      <p>Full-stack marketplace connecting garden owners with maintenance workers. React frontend, Spring Boot backend. <a href="https://zahrada-frontend.vercel.app">Live demo</a></p>
+      <p>Full-stack marketplace connecting garden owners with maintenance workers. React frontend, Spring Boot backend. <br> <a href="https://zahrada-frontend.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/mirovisus/northern-soul">
         <img src="https://github.com/mirovisus/northern-soul/raw/main/screenshot.png" alt="Northern Soul" height="400" />
       </a>
       <h3><a href="https://github.com/mirovisus/northern-soul">Northern Soul</a></h3>
-      <p>Landing page for a wooden architecture heritage nonprofit. Custom animations, Lighthouse 98/100/100/100. <a href="https://www.behance.net/gallery/255371195">Behance case</a></p>
+      <p>Landing page for a wooden architecture heritage nonprofit. Custom animations, Lighthouse 98/100/100/100. <br> <a href="https://www.behance.net/gallery/255371195">Behance case</a></p>
     </td>
   </tr>
   <tr>
