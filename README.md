@@ -50,7 +50,7 @@ Years of working with space and visual communication in architecture taught me t
   <tr>
     <td width="50%">
       <a href="https://github.com/mirovisus/worst-alarm">
-        <img src="https://github.com/mirovisus/worst-alarm/raw/main/docs/demo.gif" alt="Worst UX Alarm" width="100%" />
+        <img src="https://github.com/mirovisus/worst-alarm/raw/main/docs/baduxalarm.gif" alt="Worst UX Alarm" width="100%" />
       </a>
       <h3><a href="https://github.com/mirovisus/worst-alarm">Worst UX Alarm</a></h3>
       <p>One-day design challenge: alarm clock with intentionally hostile dismissal UX. React + Tailwind + Vite. <a href="https://worst-alarm.vercel.app">Live prototype</a></p>
