@@ -67,9 +67,11 @@ Years of working with space and visual communication in architecture taught me t
 ## Elsewhere
 
 <p align="center">
-  <a href="https://www.behance.net/vasilisaoberiut"><img src="https://img.shields.io/badge/Behance-1767FA?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://dribbble.com/Mirovis"><img src="https://img.shields.io/badge/Dribbble-1767FA?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vasilisa-pozdniakova"><img src="https://img.shields.io/badge/LinkedIn-1767FA?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vas.pozdniakova@gmail.com"><img src="https://img.shields.io/badge/Email-1767FA?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.behance.net/vasilisaoberiut"><img src="https://img.shields.io/badge/Behance-0D1B5E?style=for-the-badge&logo=behance&logoColor=white&logoWidth=25" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/Mirovis"><img src="https://img.shields.io/badge/Dribbble-0D1B5E?style=for-the-badge&logo=dribbble&logoColor=white&logoWidth=25" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vasilisa-pozdniakova"><img src="https://img.shields.io/badge/LinkedIn-0D1B5E?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:vas.pozdniakova@gmail.com"><img src="https://img.shields.io/badge/Email-0D1B5E?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25" /></a>
 </p>
-
