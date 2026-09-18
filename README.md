@@ -34,36 +34,34 @@ Years of working with space and visual communication in architecture taught me t
   <img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=12" />
 </p>
 
-## Featured Projects
-
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/mirovisus/zahrada_frontend">
-        <img src="https://github.com/mirovisus/zahrada_frontend/raw/main/docs/screenshots/screenshot.png" alt="Zahrada" width="100%" />
+        <img src="https://github.com/mirovisus/zahrada_frontend/raw/main/docs/screenshots/screenshot.png" alt="Zahrada" height="400" />
       </a>
       <h3><a href="https://github.com/mirovisus/zahrada_frontend">Zahrada</a></h3>
       <p>Full-stack marketplace connecting garden owners with maintenance workers. React frontend, Spring Boot backend. <a href="https://zahrada-frontend.vercel.app">Live demo</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/mirovisus/northern-soul">
-        <img src="https://github.com/mirovisus/northern-soul/raw/main/screenshot.png" alt="Northern Soul" width="100%" />
+        <img src="https://github.com/mirovisus/northern-soul/raw/main/screenshot.png" alt="Northern Soul" height="400" />
       </a>
       <h3><a href="https://github.com/mirovisus/northern-soul">Northern Soul</a></h3>
       <p>Landing page for a wooden architecture heritage nonprofit. Custom animations, Lighthouse 98/100/100/100. <a href="https://www.behance.net/gallery/255371195">Behance case</a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/mirovisus/worst-alarm">
-        <img src="https://github.com/mirovisus/worst-alarm/raw/main/docs/baduxalarm.gif" alt="Worst UX Alarm" width="100%" />
+        <img src="https://github.com/mirovisus/worst-alarm/raw/main/docs/baduxalarm.gif" alt="Worst UX Alarm" height="400" />
       </a>
       <h3><a href="https://github.com/mirovisus/worst-alarm">Worst UX Alarm</a></h3>
       <p>One-day design challenge: alarm clock with intentionally hostile dismissal UX. React + Tailwind + Vite. <a href="https://worst-alarm.vercel.app">Live prototype</a></p>
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <a href="https://github.com/mirovisus/breast-cancer-project">
-        <img src="https://github.com/mirovisus/breast-cancer-project/raw/master/images/first.png" alt="Breast Cancer Prediction" width="100%" />
+        <img src="https://github.com/mirovisus/breast-cancer-project/raw/master/images/first.png" alt="Breast Cancer Prediction" height="400" />
       </a>
       <h3><a href="https://github.com/mirovisus/breast-cancer-project">Breast Cancer Prediction</a></h3>
       <p>SVM and MLP classifiers on the Wisconsin dataset, 96-99% accuracy. Python, PyTorch, scikit-learn.</p>
